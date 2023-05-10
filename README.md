@@ -28,5 +28,5 @@ The last digit in 20 is 0. So, the Visa number is correct.
 
 ## PREVIEW:
 
-![Screenshot (41)](https://github.com/ayush110404/CREDIT-CARD-VALIDATOR/assets/114819135/a6ff2c6f-4b6f-40d1-a711-628fa227d2ec)
+![Screenshot (41)](https://user-images.githubusercontent.com/114819135/237487888-a6ff2c6f-4b6f-40d1-a711-628fa227d2ec.png)
 ![Screenshot (40)](https://github.com/ayush110404/CREDIT-CARD-VALIDATOR/assets/114819135/c971f43b-8a5a-4c7e-b627-c86f146c8fea)
