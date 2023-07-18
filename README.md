@@ -5,7 +5,7 @@ Used concepts of Arrays and Loops while learning JS.
 
 ## LUHN'S ALGORITHM
 The Luhn Algorithm helps to determine the accuracy of identification numbers in major credit cards and number sequences, flagging any error in the numbers provided.  
-### HOW IT WORKS
+## HOW IT WORKS
 This will be explained with a Visa number: 4003600000000014
 
 1. Multiply the digits from the back, starting from the second-to-last. Skip one number, double the next until you’re now on the first number. 
