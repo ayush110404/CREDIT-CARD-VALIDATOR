@@ -1,4 +1,4 @@
-# CREDIT-CARD-VALIDATOR
+# [CREDIT-CARD-VALIDATOR](https://ayush110404.github.io/CREDIT-CARD-VALIDATOR/)
 Developed using **Luhn's Algorithm**
 
 Used concepts of Arrays and Loops while learning JS.
